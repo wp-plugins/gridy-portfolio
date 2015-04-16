@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Gridy portfolio dispay your work effectively with google like expandable preview with title, description and project link.
+Gridy portfolio display your work effectively with google like expandable preview with title, description and project link.
 
 <a target="_blank" href="http://wittycoders.com/"> DEMO </a>
 
