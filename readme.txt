@@ -22,7 +22,7 @@ For project url add custom field 'g_link' while adding new project.
 
 1. Log in to your website administrator panel.
 2. Go to Plugins page, and add new plugin.
-3. Upload sneakers.zip
+3. Upload plugin zip file.
 4. Click Install Now button.
 5. Then click Activate Plugin button.
 6. Use shortcode [gportfolio] to any page to list all portfolio items. Add optional column number, [gportfolio col=4]. There are three options at the moment. 2, 3(default), 4. 
