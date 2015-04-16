@@ -1,4 +1,4 @@
-=== Sneakers ===
+=== Grid Portfolio ===
 
 Tags: portfolio, grid, grid portfolio, expandable
 Requires at least: 3.0.1
