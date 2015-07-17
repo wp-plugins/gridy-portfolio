@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Gridy portfolio display your work effectively with google like expandable preview with title, description and project link.
 
-<a target="_blank" href="http://wittycoders.com/"> DEMO </a>
+<a target="_blank" href="#"> DEMO (under maintenance) </a>
 
 For project url add custom field 'g_link' while adding new project.
 
